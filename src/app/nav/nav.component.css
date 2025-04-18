@@ -1,13 +1,13 @@
 h1 {
-  color: blue;
+  color: rgb(197, 197, 200);
 }
 a {
   padding: 1rem;
+  color: wheat;
 }
-div {
+nav {
   margin: 0 auto;
   padding: auto;
   text-align: center;
   width: 100%;
-  background-color: #f8f9fa;
 }
